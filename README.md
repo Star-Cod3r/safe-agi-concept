@@ -258,4 +258,4 @@ This architecture is open for review, discussion, and contributions.
 ---
 
 ## Contacts
-GitHub Issues
+Issues :)
