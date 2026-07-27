@@ -1,4 +1,4 @@
-# Sovereign AGI Architecture
+# Sovereign AGI Architecture (Artificial General Intelligence)
 
 **Practical, open-source, tamper-proof AGI architecture. Not a replacement for LLMs — but an enhancement layer stack that adds safety, memory, reasoning, and integrity.**
 
