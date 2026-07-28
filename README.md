@@ -95,7 +95,7 @@ This architecture is designed to work with any LLM. It adds 9 functional layers 
 ┌──────────────────────────────────────────────────────────────────────────────────────┐
 │                              JUDGE LAYER (External LLMs)                             │
 │   ┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────────┐   │
-│   │  Kimi K3         │  │  DeepSeek V4 Pro     │  │  DeepSeek V4 Flash       │   │
+│   │  Kimi K3         │  │  DeepSeek V4 Pro     │  │  GLM-5.2      │   │
 │   └──────────────────────┘  └──────────────────────┘  └──────────────────────────┘   │
 │                                                                                      │
 │   - Evaluates response for: correctness (35%), safety (30%), bias (15%),            │
