@@ -259,3 +259,17 @@ This architecture is open for review, discussion, and contributions.
 
 ## Contacts
 Issues :)
+
+## Note
+
+This is a conceptual specification, not a production-ready system.  
+I am a 13-year-old enthusiast — I may misunderstand or misrepresent some technical details.
+
+I am actively looking for contributors, reviewers, and mentors who can help:
+- correct mistakes
+- fill gaps
+- implement layers
+- challenge the design
+
+If something looks wrong, unclear, or naive — please open an issue or reach out.  
+I’m here to learn, not to pretend I know everything.
