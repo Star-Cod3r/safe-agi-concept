@@ -4,7 +4,7 @@
 
 ---
 
-## License: GPL-3.0
+## License: GPL-3
 
 This architecture is released under the **GNU General Public License v3.0**.  
 Any commercial use must release its source code under the same license.  
